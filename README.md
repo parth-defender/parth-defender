@@ -5,6 +5,9 @@
 <h1 align="center">
   Hi 👋, I'm Parth Defender
 </h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=parth-defender&label=Profile%20Views&color=0e75b6&style=flat" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Cybersecurity+Enthusiast;Ethical+Hacker;Nmap+|+Wireshark+|+Metasploit;Always+Learning+New+Things" />
@@ -28,13 +31,15 @@
 * 🎯 Goal: Become a Professional Security Analyst
 
 ---
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,git,github" />
-</p>
+
 
 ## 🧠 Skills
 
 ### 💻 System & Networking
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,git,github" />
+</p>
 
 * Linux (cd, ls, chmod, nano)
 * Networking (TCP/IP, DNS, HTTP, Ports)
