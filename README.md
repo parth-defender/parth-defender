@@ -1,33 +1,100 @@
-# 👋 Hi, I'm Parth Parmar
+# 👨‍💻 Parth Parmar
 
-🔐 Cybersecurity Enthusiast  
-💻 Skilled in Linux, Networking & Security Tools  
-🚀 Currently learning Ethical Hacking  
+### 🔐 Cybersecurity Enthusiast | Ethical Hacking Learner
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Focus-Cybersecurity-red?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Level-Beginner--to--Pro-blue?style=for-the-badge">
+  <img src="https://img.shields.io/badge/Goal-Job%20Ready-green?style=for-the-badge">
+</p>
+
+---
+
+## 🚀 About Me
+
+* 🔐 Passionate about Cybersecurity & Ethical Hacking
+* 💻 Practicing Linux, Networking & Security Tools
+* 🧠 Learning real-world attack & defense techniques
+* 🎯 Goal: Become a Professional Security Analyst
 
 ---
 
 ## 🧠 Skills
-- Linux (cd, ls, chmod)
-- Networking (TCP/IP, DNS)
-- Tools: Nmap, Wireshark, Metasploit
-- Web Security: SQL Injection, XSS
+
+### 💻 System & Networking
+
+* Linux (cd, ls, chmod, nano)
+* Networking (TCP/IP, DNS, HTTP, Ports)
+
+### 🛠️ Tools
+
+* Nmap (Scanning & Enumeration)
+* Wireshark (Packet Analysis)
+* Metasploit (Basic Exploitation)
+
+### 🌐 Web Security
+
+* SQL Injection
+* Cross-Site Scripting (XSS)
 
 ---
 
 ## 📂 Projects
-🔍 Nmap Scanning  
-📡 Wireshark Analysis  
-💣 Metasploit Labs  
-🧪 TryHackMe Writeups  
+
+🔍 **Nmap Scanning Project**
+
+* Identified open ports & services
+* Performed multiple scan techniques
+
+📡 **Wireshark Analysis**
+
+* Captured & analyzed network packets
+* Detected HTTP & suspicious traffic
+
+💣 **Metasploit Labs**
+
+* Basic exploitation practice
+* Payload understanding
+
+🧪 **TryHackMe Writeups**
+
+* Completed multiple labs
+* Documented learning step-by-step
 
 ---
 
-## 🚀 Goals
-- Become Cybersecurity Expert  
-- Get Internship / Job  
-- Bug Bounty Hunter  
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=parth-cybersec&show_icons=true&theme=radical" width="48%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parth-cybersec&theme=radical" width="48%">
+</p>
 
 ---
 
-## 📫 Contact
-📧 your@email.com  
+## 🏆 Achievements
+
+* ✅ Completed Cybersecurity Basics
+* 🔄 Daily Practice & Labs
+* 🎯 Building Strong Portfolio
+
+---
+
+## 🎯 Goals (2026)
+
+* 🚀 Get Cybersecurity Internship
+* 💼 Crack First Job
+* 🐞 Start Bug Bounty
+
+---
+
+## 📫 Contact Me
+
+* 📧 nexgen408@gmail.com
+* 💼 LinkedIn: 
+
+---
+
+## ⚡ Fun Fact
+
+> “I don’t just learn hacking, I practice it daily.” 😎🔥
