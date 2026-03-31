@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="[PASTE_YOUR_IMAGE_LINK_HERE](https://github.com/parth-defender/parth-defender/blob/main/ChatGPT%20Image%20Mar%2031%2C%202026%2C%2011_37_15%20AM.png)"/>
+</p>
+
 # 👨‍💻 Parth Parmar
 
 ### 🔐 Cybersecurity Enthusiast | Ethical Hacking Learner
