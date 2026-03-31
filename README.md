@@ -1,8 +1,14 @@
 <p align="center">
-  <img src="https://github.com/parth-defender/parth-defender/blob/main/ChatGPT%20Image%20Mar%2031%2C%202026%2C%2011_37_15%20AM.png"/>
+  <img src="https://github.com/parth-defender/parth-defender/blob/main/ChatGPT%20Image%20Mar%2031%2C%202026%2C%2011_37_15%20AM.png" />
 </p>
 
-# 👨‍💻 Parth Parmar
+<h1 align="center">
+  Hi 👋, I'm Parth Defender
+</h1>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&lines=Cybersecurity+Enthusiast;Ethical+Hacker;Nmap+|+Wireshark+|+Metasploit;Always+Learning+New+Things" />
+</p>
 
 ### 🔐 Cybersecurity Enthusiast | Ethical Hacking Learner
 
@@ -22,6 +28,9 @@
 * 🎯 Goal: Become a Professional Security Analyst
 
 ---
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,git,github" />
+</p>
 
 ## 🧠 Skills
 
@@ -70,8 +79,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=parth-cybersec&show_icons=true&theme=radical" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parth-cybersec&theme=radical" width="48%">
+  <img src="https://github-readme-stats.vercel.app/api?username=parth-defender&show_icons=true&theme=radical" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=parth-defender&theme=radical" />
 </p>
 
 ---
