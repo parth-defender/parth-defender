@@ -239,13 +239,13 @@ Email    : nexgen408@gmail.com
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=parth-defender&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=ffffff&ring_color=00FF41" height="180"/>
+<img src="https://github-readme-stats-salesp07.vercel.app/api?username=parth-defender&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&icon_color=00FF41&text_color=ffffff&count_private=true" height="180"/>
 &nbsp;&nbsp;
 <img src="https://streak-stats.demolab.com/?user=parth-defender&theme=radical&hide_border=true&background=0D1117&ring=00FF41&fire=FF6B35&currStreakLabel=00FF41" height="180"/>
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=parth-defender&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=ffffff" height="150"/>
+<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=parth-defender&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00FF41&text_color=ffffff&langs_count=6" height="150"/>
 
 </div>
 
@@ -255,10 +255,9 @@ Email    : nexgen408@gmail.com
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=parth-defender&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=10" width="100%"/>
+<img src="https://raw.githubusercontent.com/parth-defender/parth-defender/main/trophies.svg" width="100%"/>
 
 </div>
-
 ---
 
 <!-- ═══════════════════════════  ACTIVITY GRAPH  ═══════════════════════════ -->
