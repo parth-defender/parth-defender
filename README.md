@@ -1,16 +1,33 @@
-## Hi there 👋
+# 👋 Hi, I'm Parth Parmar
 
-<!--
-**parth-defender/parth-defender** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔐 Cybersecurity Enthusiast  
+💻 Skilled in Linux, Networking & Security Tools  
+🚀 Currently learning Ethical Hacking  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Skills
+- Linux (cd, ls, chmod)
+- Networking (TCP/IP, DNS)
+- Tools: Nmap, Wireshark, Metasploit
+- Web Security: SQL Injection, XSS
+
+---
+
+## 📂 Projects
+🔍 Nmap Scanning  
+📡 Wireshark Analysis  
+💣 Metasploit Labs  
+🧪 TryHackMe Writeups  
+
+---
+
+## 🚀 Goals
+- Become Cybersecurity Expert  
+- Get Internship / Job  
+- Bug Bounty Hunter  
+
+---
+
+## 📫 Contact
+📧 your@email.com  
